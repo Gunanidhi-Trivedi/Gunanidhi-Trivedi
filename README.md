@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunanidhi-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="gunanidhi-trivedi" /> </p>
 
-- 🔭 I’m currently working on [E-BAZAAR](https://github.com/Gunanidhi-Trivedi/demo)
-
-- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Gunanidhi-Trivedi](https://github.com/Gunanidhi-Trivedi)
 
-- 💬 Ask me about **REACTjs, VUE, SQL, AI/ML, etc...**
+- 💬 Ask me about **PYTHON, JAVA, VUE, SQL, AI/ML, etc...**
 
 - 📫 How to reach me **gunanidhi3vedi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g1TtOGCmTDDq_fp4RQAiYp_CmsozB4JM/view?usp=sharing](https://drive.google.com/file/d/1g1TtOGCmTDDq_fp4RQAiYp_CmsozB4JM/view?usp=sharing)
-
-- ⚡ Fun fact **I talk a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
